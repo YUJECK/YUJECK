@@ -1,3 +1,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=YUJECK&theme=apprentice&hide_border=true)](https://git.io/streak-stats)
 
-Hi! I'm YUJECK. I'm beginner unity developer. You can see some of my released projects there - https://cactus-spice-studio.itch.io/
+Привет, я Юджек(в узких кругах известный как Ёжик). Я начинающий разработчик игр. Суровая жизнь соло разработчика вынудила меня научится рисовать пикселями, кодить и геймдизайнить. Во всех сферах опыта у меня мало, особенно в геймдизайне. Некоторые мои релизные проекты можно посмотреть тута: https://cactus-spice-studio.itch.io/
+
